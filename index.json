@@ -1,98 +1,105 @@
 {
-   "@schemaLocation": "http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd",
-   "@Version": "3.3",
-   "@Serie": "FOFG",
-   "@Folio": "1513766",
-   "@Fecha": "2020-02-09T23:35:32",
-   "@Sello": "FLOnJRCBAjuaAPmFNuwCG2tIU2YpUM1PA980tUTRI2FRcjhrGR93EOVEJ8k/h/bslWLbmdC6ZyDj60EyzUBhyi4CGC11dPY+rruBiNnaHOJJKViHGv3LitwqqQPXQFWwGFKd2tMoshwFzhBX4iHBwslVKoBieihHGwsPI9pWmgbU9NKseEuRy9JOuWqu/AcG5RQOqbvO8kMf3p1MeZmozrvZE/32VxoUcptzv0HPPXydvndK1gVFhDOe1nS5j+sxdKEHTHWor7r4E1kXve1nz+cef5oiCcOYdZ9Ny9jojxsKoLSbWA1KZLgSrA9ZV8jBPNNcPIXT+HxmJu2tboYfQg==",
-   "@NoCertificado": "00001000000403386010",
-   "@Certificado": "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",
-   "@FormaPago": "99",
-   "@CondicionesDePago": "FACT DIARIA",
-   "@SubTotal": "1238.96",
-   "@Moneda": "MXN",
-   "@TipoCambio": "1",
-   "@Total": "1437.20",
-   "@TipoDeComprobante": "I",
-   "@MetodoPago": "PPD",
-   "@LugarExpedicion": "27016",
-   "Emisor": {
-      "@Rfc": "ASA6506102U9",
-      "@Nombre": "Aeropuertos y Servicios Auxiliares",
-      "@RegimenFiscal": "603"
-   },
-   "Receptor": {
-      "@Rfc": "CCD070607PL6",
-      "@Nombre": "COMERCIALIZADORA DE COMBUSTIBLES Y DERIVADOS FUENTES SA DE CV",
-      "@UsoCFDI": "P01"
-   },
-   "Conceptos": {
-      "Concepto": [
-         {
-            "@ClaveProdServ": "78131702",
-            "@NoIdentificacion": "33331",
-            "@Cantidad": "5.305",
-            "@ClaveUnidad": "E48",
-            "@Unidad": "SERVICIO",
-            "@Descripcion": "TARIFA ALMACENAMIENTO TURBOSINA TX_ID: 12758489 DESPACHO:  NO_FAC: 333170 PEDIDO: 92003908403 TIPO_TX: TRC_CMB",
-            "@ValorUnitario": "137.51",
-            "@Importe": "729.49",
-            "Impuestos": {
-               "Traslados": {
-                  "Traslado": {
-                     "@Base": "729.49",
-                     "@Impuesto": "002",
-                     "@TipoFactor": "Tasa",
-                     "@TasaOCuota": "0.160000",
-                     "@Importe": "116.72"
+   "Comprobante": {
+      "Emisor": {
+         "_Rfc": "ASA6506102U9",
+         "_Nombre": "Aeropuertos y Servicios Auxiliares",
+         "_RegimenFiscal": "603"
+      },
+      "Receptor": {
+         "_Rfc": "CCD070607PL6",
+         "_Nombre": "COMERCIALIZADORA DE COMBUSTIBLES Y DERIVADOS FUENTES SA DE CV",
+         "_UsoCFDI": "P01"
+      },
+      "Conceptos": {
+         "Concepto": [
+            {
+               "Impuestos": {
+                  "Traslados": {
+                     "Traslado": {
+                        "_Base": "729.49",
+                        "_Impuesto": "002",
+                        "_TipoFactor": "Tasa",
+                        "_TasaOCuota": "0.160000",
+                        "_Importe": "116.72"
+                     }
                   }
-               }
+               },
+               "_ClaveProdServ": "78131702",
+               "_NoIdentificacion": "33331",
+               "_Cantidad": "5.305",
+               "_ClaveUnidad": "E48",
+               "_Unidad": "SERVICIO",
+               "_Descripcion": "TARIFA ALMACENAMIENTO TURBOSINA TX_ID: 12758489 DESPACHO:  NO_FAC: 333170 PEDIDO: 92003908403 TIPO_TX: TRC_CMB",
+               "_ValorUnitario": "137.51",
+               "_Importe": "729.49"
+            },
+            {
+               "Impuestos": {
+                  "Traslados": {
+                     "Traslado": {
+                        "_Base": "509.47",
+                        "_Impuesto": "002",
+                        "_TipoFactor": "Tasa",
+                        "_TasaOCuota": "0.160000",
+                        "_Importe": "81.52"
+                     }
+                  }
+               },
+               "_ClaveProdServ": "78131702",
+               "_NoIdentificacion": "33331",
+               "_Cantidad": "3.705",
+               "_ClaveUnidad": "E48",
+               "_Unidad": "SERVICIO",
+               "_Descripcion": "TARIFA ALMACENAMIENTO TURBOSINA TX_ID: 12758489 DESPACHO:  NO_FAC: 333170 PEDIDO: 92003908407 TIPO_TX: TRC_CMB",
+               "_ValorUnitario": "137.51",
+               "_Importe": "509.47"
+            }
+         ]
+      },
+      "Impuestos": {
+         "Traslados": {
+            "Traslado": {
+               "_Impuesto": "002",
+               "_TipoFactor": "Tasa",
+               "_TasaOCuota": "0.160000",
+               "_Importe": "198.24"
             }
          },
-         {
-            "@ClaveProdServ": "78131702",
-            "@NoIdentificacion": "33331",
-            "@Cantidad": "3.705",
-            "@ClaveUnidad": "E48",
-            "@Unidad": "SERVICIO",
-            "@Descripcion": "TARIFA ALMACENAMIENTO TURBOSINA TX_ID: 12758489 DESPACHO:  NO_FAC: 333170 PEDIDO: 92003908407 TIPO_TX: TRC_CMB",
-            "@ValorUnitario": "137.51",
-            "@Importe": "509.47",
-            "Impuestos": {
-               "Traslados": {
-                  "Traslado": {
-                     "@Base": "509.47",
-                     "@Impuesto": "002",
-                     "@TipoFactor": "Tasa",
-                     "@TasaOCuota": "0.160000",
-                     "@Importe": "81.52"
-                  }
-               }
-            }
+         "_TotalImpuestosTrasladados": "198.24"
+      },
+      "Complemento": {
+         "TimbreFiscalDigital": {
+            "_xmlns:tfd": "http://www.sat.gob.mx/TimbreFiscalDigital",
+            "_xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "_xsi:schemaLocation": "http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd",
+            "_Version": "1.1",
+            "_UUID": "0f96eead-676a-43a5-9796-31a66d457bd4",
+            "_FechaTimbrado": "2020-02-09T23:35:41",
+            "_RfcProvCertif": "LSO1306189R5",
+            "_SelloCFD": "FLOnJRCBAjuaAPmFNuwCG2tIU2YpUM1PA980tUTRI2FRcjhrGR93EOVEJ8k/h/bslWLbmdC6ZyDj60EyzUBhyi4CGC11dPY+rruBiNnaHOJJKViHGv3LitwqqQPXQFWwGFKd2tMoshwFzhBX4iHBwslVKoBieihHGwsPI9pWmgbU9NKseEuRy9JOuWqu/AcG5RQOqbvO8kMf3p1MeZmozrvZE/32VxoUcptzv0HPPXydvndK1gVFhDOe1nS5j+sxdKEHTHWor7r4E1kXve1nz+cef5oiCcOYdZ9Ny9jojxsKoLSbWA1KZLgSrA9ZV8jBPNNcPIXT+HxmJu2tboYfQg==",
+            "_NoCertificadoSAT": "00001000000408254801",
+            "_SelloSAT": "XsHKYvEA5XepL1a3zOJaJouRl91+yMzoRZ8TiuernYsVa9W3xyi6EGO7g/TKNMDtEpNnNBcOKl3rq6uTVoUow9ajoRNPT5DnvxDWBbQS04HtHhl3sT5S7YcpjllOiwkzfRN4v9hOpPVnUmSvFVsIy6JNeSFejYbLNLKq2/J/Tyki6HNubNXaPSWBDjM4yH8a6+TYjR6CtVAh+YNsnNowJvO+Ym92+AgjuZv8/Pxeq6mvCkZ+2IUAZtKPt7YgzQBlvoRwgMyZWiXasUXm+1QWpCB8ReEpPsI7UsQOm781KaKkaGWQyFXIEZxj2sK3BBZ6y0xXfbEJAAvSR2ucwCeQXA=="
          }
-      ]
-   },
-   "Impuestos": {
-      "@TotalImpuestosTrasladados": "198.24",
-      "Traslados": {
-         "Traslado": {
-            "@Impuesto": "002",
-            "@TipoFactor": "Tasa",
-            "@TasaOCuota": "0.160000",
-            "@Importe": "198.24"
-         }
-      }
-   },
-   "Complemento": {
-      "TimbreFiscalDigital": {
-         "@schemaLocation": "http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd",
-         "@Version": "1.1",
-         "@UUID": "0f96eead-676a-43a5-9796-31a66d457bd4",
-         "@FechaTimbrado": "2020-02-09T23:35:41",
-         "@RfcProvCertif": "LSO1306189R5",
-         "@SelloCFD": "FLOnJRCBAjuaAPmFNuwCG2tIU2YpUM1PA980tUTRI2FRcjhrGR93EOVEJ8k/h/bslWLbmdC6ZyDj60EyzUBhyi4CGC11dPY+rruBiNnaHOJJKViHGv3LitwqqQPXQFWwGFKd2tMoshwFzhBX4iHBwslVKoBieihHGwsPI9pWmgbU9NKseEuRy9JOuWqu/AcG5RQOqbvO8kMf3p1MeZmozrvZE/32VxoUcptzv0HPPXydvndK1gVFhDOe1nS5j+sxdKEHTHWor7r4E1kXve1nz+cef5oiCcOYdZ9Ny9jojxsKoLSbWA1KZLgSrA9ZV8jBPNNcPIXT+HxmJu2tboYfQg==",
-         "@NoCertificadoSAT": "00001000000408254801",
-         "@SelloSAT": "XsHKYvEA5XepL1a3zOJaJouRl91+yMzoRZ8TiuernYsVa9W3xyi6EGO7g/TKNMDtEpNnNBcOKl3rq6uTVoUow9ajoRNPT5DnvxDWBbQS04HtHhl3sT5S7YcpjllOiwkzfRN4v9hOpPVnUmSvFVsIy6JNeSFejYbLNLKq2/J/Tyki6HNubNXaPSWBDjM4yH8a6+TYjR6CtVAh+YNsnNowJvO+Ym92+AgjuZv8/Pxeq6mvCkZ+2IUAZtKPt7YgzQBlvoRwgMyZWiXasUXm+1QWpCB8ReEpPsI7UsQOm781KaKkaGWQyFXIEZxj2sK3BBZ6y0xXfbEJAAvSR2ucwCeQXA=="
-      }
+      },
+      "_xmlns:cfdi": "http://www.sat.gob.mx/cfd/3",
+      "_xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "_xmlns:tfd": "http://www.sat.gob.mx/TimbreFiscalDigital",
+      "_xsi:schemaLocation": "http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd",
+      "_Version": "3.3",
+      "_Serie": "FOFG",
+      "_Folio": "1513766",
+      "_Fecha": "2020-02-09T23:35:32",
+      "_Sello": "FLOnJRCBAjuaAPmFNuwCG2tIU2YpUM1PA980tUTRI2FRcjhrGR93EOVEJ8k/h/bslWLbmdC6ZyDj60EyzUBhyi4CGC11dPY+rruBiNnaHOJJKViHGv3LitwqqQPXQFWwGFKd2tMoshwFzhBX4iHBwslVKoBieihHGwsPI9pWmgbU9NKseEuRy9JOuWqu/AcG5RQOqbvO8kMf3p1MeZmozrvZE/32VxoUcptzv0HPPXydvndK1gVFhDOe1nS5j+sxdKEHTHWor7r4E1kXve1nz+cef5oiCcOYdZ9Ny9jojxsKoLSbWA1KZLgSrA9ZV8jBPNNcPIXT+HxmJu2tboYfQg==",
+      "_NoCertificado": "00001000000403386010",
+      "_Certificado": "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",
+      "_FormaPago": "99",
+      "_CondicionesDePago": "FACT DIARIA",
+      "_SubTotal": "1238.96",
+      "_Moneda": "MXN",
+      "_TipoCambio": "1",
+      "_Total": "1437.20",
+      "_TipoDeComprobante": "I",
+      "_MetodoPago": "PPD",
+      "_LugarExpedicion": "27016"
    }
 }
