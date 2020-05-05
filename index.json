@@ -126,8 +126,8 @@
                                 "TipoFactor": "Tasa"
                             }
                         }
-                    }]
-                },
+                    }
+                }],
                 {
                     "Cantidad": 45.714,
                     "ClaveProdServ": 78141504,
