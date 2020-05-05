@@ -1,3 +1,4 @@
+[
 {
     "cfdi:Comprobante": {
         "xmlns:cfdi": "http://www.sat.gob.mx/cfd/3",
@@ -76,3 +77,4 @@
         }
     }
 }
+]
