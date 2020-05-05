@@ -27,7 +27,8 @@
             "UsoCFDI": "G03"
         },
         "cfdi:Conceptos": {
-            "cfdi:Concepto": {
+            "cfdi:Concepto":
+                [{
                 "Cantidad": 120.9,
                 "ClaveProdServ": 15111510,
                 "ClaveUnidad": "LTR",
@@ -47,7 +48,7 @@
                         }
                     }
                 }
-            }
+            }]
         },
         "cfdi:Impuestos": {
             "TotalImpuestosTrasladados": 91.08,
@@ -125,7 +126,7 @@
                                 "TipoFactor": "Tasa"
                             }
                         }
-                    }
+                    }]
                 },
                 {
                     "Cantidad": 45.714,
@@ -205,7 +206,7 @@
             "UsoCFDI": "G03"
         },
         "cfdi:Conceptos": {
-            "cfdi:Concepto": {
+            "cfdi:Concepto": [{
                 "Cantidad": 400.2,
                 "ClaveProdServ": 15111510,
                 "ClaveUnidad": "LTR",
@@ -225,7 +226,7 @@
                         }
                     }
                 }
-            }
+            }]
         },
         "cfdi:Impuestos": {
             "TotalImpuestosTrasladados": 414,
