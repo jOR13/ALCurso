@@ -1,3 +1,4 @@
+
 [
 {
 "xsiSchemaLocation": "http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd",
@@ -31,7 +32,15 @@
 "ImporteSpecified": true
 }
 ],
-"Retenciones": null
+"Retenciones": [
+{
+"Base": 0,
+"Impuesto": null,
+"TipoFactor": null,
+"TasaOCuota": 0,
+"Importe": 0
+}
+]
 },
 "InformacionAduanera": [
 {
@@ -53,7 +62,12 @@
 }
 ],
 "Impuestos": {
-"Retenciones": null,
+"Retenciones": [
+{
+"Impuesto": null,
+"Importe": 0
+}
+],
 "Traslados": [
 {
 "Impuesto": "002",
@@ -141,7 +155,15 @@
 "ImporteSpecified": true
 }
 ],
-"Retenciones": null
+"Retenciones": [
+{
+"Base": 0,
+"Impuesto": null,
+"TipoFactor": null,
+"TasaOCuota": 0,
+"Importe": 0
+}
+]
 },
 "InformacionAduanera": [
 {
@@ -166,7 +188,12 @@
 }
 ],
 "Impuestos": {
-"Retenciones": null,
+"Retenciones": [
+{
+"Impuesto": null,
+"Importe": 0
+}
+],
 "Traslados": [
 {
 "Impuesto": "002",
@@ -254,7 +281,15 @@
 "ImporteSpecified": true
 }
 ],
-"Retenciones": null
+"Retenciones": [
+{
+"Base": 0,
+"Impuesto": null,
+"TipoFactor": null,
+"TasaOCuota": 0,
+"Importe": 0
+}
+]
 },
 "InformacionAduanera": [
 {
@@ -282,7 +317,12 @@
 }
 ],
 "Impuestos": {
-"Retenciones": null,
+"Retenciones": [
+{
+"Impuesto": null,
+"Importe": 0
+}
+],
 "Traslados": [
 {
 "Impuesto": "002",
@@ -370,7 +410,15 @@
 "ImporteSpecified": true
 }
 ],
-"Retenciones": null
+"Retenciones": [
+{
+"Base": 0,
+"Impuesto": null,
+"TipoFactor": null,
+"TasaOCuota": 0,
+"Importe": 0
+}
+]
 },
 "InformacionAduanera": [
 {
@@ -425,7 +473,12 @@
 }
 ],
 "Impuestos": {
-"Retenciones": null,
+"Retenciones": [
+{
+"Impuesto": null,
+"Importe": 0
+}
+],
 "Traslados": [
 {
 "Impuesto": "002",
@@ -513,7 +566,15 @@
 "ImporteSpecified": true
 }
 ],
-"Retenciones": null
+"Retenciones": [
+{
+"Base": 0,
+"Impuesto": null,
+"TipoFactor": null,
+"TasaOCuota": 0,
+"Importe": 0
+}
+]
 },
 "InformacionAduanera": [
 {
@@ -580,7 +641,12 @@
 }
 ],
 "Impuestos": {
-"Retenciones": null,
+"Retenciones": [
+{
+"Impuesto": null,
+"Importe": 0
+}
+],
 "Traslados": [
 {
 "Impuesto": "002",
