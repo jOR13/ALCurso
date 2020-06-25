@@ -1,5 +1,4 @@
 [
-{
 "xsiSchemaLocation": "http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd",
 "CfdiRelacionados": {
 "CfdiRelacionado": [],
@@ -11,40 +10,44 @@
 "RegimenFiscal": "601"
 },
 "Receptor": {
-"Rfc": "XAXX010101000",
-"Nombre": "CLIENTE PUBLICO EN GENERAL FRONT",
+"Rfc": "ANA050518RL1",
+"Nombre": "AEROENLACES NACIONALES SA DE CV",
 "ResidenciaFiscalSpecified": false,
 "NumRegIdTrib": null,
-"UsoCFDI": "P01"
+"UsoCFDI": "G03"
 },
 "Conceptos": [
 {
 "Impuestos": {
 "Traslados": [
 {
-"Base": 33339.56,
+"Base": 1335.4,
 "Impuesto": "002",
 "TipoFactor": "Tasa",
-"TasaOCuota": 0.08,
+"TasaOCuota": 0.16,
 "TasaOCuotaSpecified": true,
-"Importe": 2667.16,
+"Importe": 213.66,
 "ImporteSpecified": true
 }
 ],
 "Retenciones": []
 },
-"InformacionAduanera": null,
+"InformacionAduanera": [
+{
+"NumeroPedimento": "20  17  1176  0005071"
+}
+],
 "CuentaPredial": null,
 "ComplementoConcepto": null,
 "Parte": null,
-"ClaveProdServ": "15111510",
-"NoIdentificacion": "GAS JRZ - N",
-"Cantidad": 3321.5,
+"ClaveProdServ": "15101504",
+"NoIdentificacion": "TURBOSINA - I",
+"Cantidad": 3767,
 "ClaveUnidad": "LTR",
 "Unidad": "L",
-"Descripcion": "Gas Propano Juarez Nacional",
-"ValorUnitario": 10.0375,
-"Importe": 33339.56,
+"Descripcion": "Turbosina Importada Fechas Pedimentos: 08/06/2020",
+"ValorUnitario": 0.3545,
+"Importe": 1335.4,
 "DescuentoSpecified": false
 }
 ],
@@ -54,12 +57,12 @@
 {
 "Impuesto": "002",
 "TipoFactor": "Tasa",
-"TasaOCuota": 0.08,
-"Importe": 2667.16
+"TasaOCuota": 0.16,
+"Importe": 213.66
 }
 ],
 "TotalImpuestosRetenidosSpecified": false,
-"TotalImpuestosTrasladados": 2667.16,
+"TotalImpuestosTrasladados": 213.66,
 "TotalImpuestosTrasladadosSpecified": true
 },
 "Complemento": [
@@ -69,12 +72,12 @@
 "tfd:TimbreFiscalDigital": {
 "@xmlns:tfd": "http://www.sat.gob.mx/TimbreFiscalDigital",
 "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-"@FechaTimbrado": "2020-06-24T17:32:23",
+"@FechaTimbrado": "2020-06-15T18:15:36",
 "@NoCertificadoSAT": "00001000000412961981",
 "@RfcProvCertif": "FCG840618N51",
-"@SelloCFD": "dzkcNcvdgv/m5h0xGqcwZ3GfBUDEEiE2FwEVTgiBay4iJOrlLUEtrbO4hSHmC62pvrg19LNtbTEmLW9eBB+j68IoVDgxZxG9DK9QYY9AFdgF6MXTcTmYLAk4en+TL1vv28SJqGY0q5W7TyHq6dr873mtJ4PtEAyMn1/uO4+SALHo8hcBcWw1ekeWJ9GGD8tWLsiQ0vAOv9sg/lcXpZ/Yux7SVfeniIXCap2mM/45GRbKN/+TJs3y3QNgEH9jGJD83leRye46XEtWW0xUMAJSgBTTjxtCTVgBjvD0SAMLqWh3aXxU3mSwNVM8Y/gm50xIBxWXzHpG9SsJztCeL+SAeQ==",
-"@SelloSAT": "naOOheIvbqIPhGAI512ZDd50hOF7upQRzgOhdmT54JLN7TTcviao04GfEOt+41wtZl62PVD1f+qcEShtVaY4KxqAaRm8AqvlseQNV3mXJIxPBcHOHk0WNi0ZO1XNpWJXHZYzKXHCGkI/h0DVkThmXX9taq6Fb92XFJV4l9kCS2g7L2qZlx6JdUjVsROw3FAcRTlbMONlNCh/ht9pcpvyPN06b8W61cIsYROmRERpCCDzRw7vOeIx3LkmrdGDcnK1ufWh5DqMybSdhC5WOTBF1SCYlmR24r/8SUKV4UqZlokjBQLplhsalZ2NKoDsC6WbdEPam+ytPaG3fpCeYFw/jg==",
-"@UUID": "67654EB5-0694-4B93-A7C8-16E0DDF8BD96",
+"@SelloCFD": "gVkS+mgFwyTfYcBf6Vh4n85h6rhlH8nfgTN7xs5EDpEHKqUXqlI4p7eblvKd9uhVL8wgGzFNfMfEJtdYADUwP0xv7gfp961ZUGprZ+doB/TDUnfBwhPwc+R8rwH/ZnZXLt+xIBbYbEdPyaGwDA/XeCXogGvQw5Q5C7j4WIKudaYcexlMNyG2Re4KGN7j/TNzvtCS3hZ1N/zeQ1X+fwLsvIo9Ai3GoYEQOs3bUJJRywfdNZGSl0ElNQjv/dKhP0c1Uj6o7E854lFeliozCISfXzCJhRnQSZq7pR+ygvp8JPQW7T6wHgWbF/UaOPhXduNqgbRZN23e/N/wfR5KLbiSkA==",
+"@SelloSAT": "b0G3E+oiDMq78D8YZCXbKvnz6u5LtYrOsFJP5YbNCUzhFFW5uZMkpKvPehveiNcqo+9wqHZtp2s6D5xQNAjq2PYh6o19DkfMr2Serku2uC8D3Ersxrz0vaWky9qCjcLCmBv58KYRyVF8h6OZQ3S7DzB7u0emjmFtJpoZfuCzKeuz8EUqoucxAuru9hWjEAFfVEj7Qvwwqtniwq818NxgWTTD/OqrHT7j8BiPNanW3X2obc0TBdiRtqsC2nyoWE44Vhm//B0iGVVhlHq2X74sqtISXO9pIKLDjDyn2iG8Uq7DtTeQwYLr1unYrBwC5TmZs+kAPgDEODHySJfjlsk8bw==",
+"@UUID": "99E2F507-00DE-4A9A-B152-C2191CA58E5C",
 "@Version": "1.1",
 "@xsi:schemaLocation": "http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/timbrefiscaldigital/TimbreFiscalDigitalv11.xsd"
 }
@@ -85,22 +88,22 @@
 "Addenda": null,
 "Version": "3.3",
 "Serie": null,
-"Folio": "119486",
-"Fecha": "2020-06-22T16:34:09",
-"Sello": "dzkcNcvdgv/m5h0xGqcwZ3GfBUDEEiE2FwEVTgiBay4iJOrlLUEtrbO4hSHmC62pvrg19LNtbTEmLW9eBB+j68IoVDgxZxG9DK9QYY9AFdgF6MXTcTmYLAk4en+TL1vv28SJqGY0q5W7TyHq6dr873mtJ4PtEAyMn1/uO4+SALHo8hcBcWw1ekeWJ9GGD8tWLsiQ0vAOv9sg/lcXpZ/Yux7SVfeniIXCap2mM/45GRbKN/+TJs3y3QNgEH9jGJD83leRye46XEtWW0xUMAJSgBTTjxtCTVgBjvD0SAMLqWh3aXxU3mSwNVM8Y/gm50xIBxWXzHpG9SsJztCeL+SAeQ==",
-"FormaPago": "01",
+"Folio": "118977",
+"Fecha": "2020-06-15T12:00:00",
+"Sello": "gVkS+mgFwyTfYcBf6Vh4n85h6rhlH8nfgTN7xs5EDpEHKqUXqlI4p7eblvKd9uhVL8wgGzFNfMfEJtdYADUwP0xv7gfp961ZUGprZ+doB/TDUnfBwhPwc+R8rwH/ZnZXLt+xIBbYbEdPyaGwDA/XeCXogGvQw5Q5C7j4WIKudaYcexlMNyG2Re4KGN7j/TNzvtCS3hZ1N/zeQ1X+fwLsvIo9Ai3GoYEQOs3bUJJRywfdNZGSl0ElNQjv/dKhP0c1Uj6o7E854lFeliozCISfXzCJhRnQSZq7pR+ygvp8JPQW7T6wHgWbF/UaOPhXduNqgbRZN23e/N/wfR5KLbiSkA==",
+"FormaPago": "99",
 "FormaPagoSpecified": true,
 "NoCertificado": "00001000000403994658",
 "Certificado": "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",
 "CondicionesDePago": "2020-06-22",
-"SubTotal": 33339.56,
+"SubTotal": 1335.4,
 "DescuentoSpecified": false,
-"Moneda": "MXN",
-"TipoCambio": 1,
+"Moneda": "USD",
+"TipoCambio": 22.4252,
 "TipoCambioSpecified": true,
-"Total": 36006.72,
+"Total": 1549.06,
 "TipoDeComprobante": "I",
-"MetodoPago": "PUE",
+"MetodoPago": "PPD",
 "MetodoPagoSpecified": true,
 "LugarExpedicion": "32459",
 "Confirmacion": null
@@ -117,69 +120,47 @@
 "RegimenFiscal": "601"
 },
 "Receptor": {
-"Rfc": "XAXX010101000",
-"Nombre": "CLIENTE PUBLICO EN GENERAL FRONT",
+"Rfc": "ANA050518RL1",
+"Nombre": "AEROENLACES NACIONALES SA DE CV FRONTERA",
 "ResidenciaFiscalSpecified": false,
 "NumRegIdTrib": null,
-"UsoCFDI": "P01"
+"UsoCFDI": "G03"
 },
 "Conceptos": [
 {
 "Impuestos": {
 "Traslados": [
 {
-"Base": 7104.37,
+"Base": 7130,
 "Impuesto": "002",
 "TipoFactor": "Tasa",
 "TasaOCuota": 0.08,
 "TasaOCuotaSpecified": true,
-"Importe": 568.35,
+"Importe": 570.4,
 "ImporteSpecified": true
 }
 ],
 "Retenciones": []
 },
-"InformacionAduanera": null,
-"CuentaPredial": null,
-"ComplementoConcepto": null,
-"Parte": null,
-"ClaveProdServ": "15111510",
-"NoIdentificacion": "GAS JRZ - N",
-"Cantidad": 754.7,
-"ClaveUnidad": "LTR",
-"Unidad": "L",
-"Descripcion": "Gas Propano Juarez Nacional",
-"ValorUnitario": 9.4135,
-"Importe": 7104.37,
-"DescuentoSpecified": false
+"InformacionAduanera": [
+{
+"NumeroPedimento": "20  17  1176  0003587"
 },
 {
-"Impuestos": {
-"Traslados": [
-{
-"Base": 8190.93,
-"Impuesto": "002",
-"TipoFactor": "Tasa",
-"TasaOCuota": 0.08,
-"TasaOCuotaSpecified": true,
-"Importe": 655.27,
-"ImporteSpecified": true
+"NumeroPedimento": "20  17  1176  0003593"
 }
 ],
-"Retenciones": []
-},
-"InformacionAduanera": null,
 "CuentaPredial": null,
 "ComplementoConcepto": null,
 "Parte": null,
-"ClaveProdServ": "15111510",
-"NoIdentificacion": "GAS JRZ - N",
-"Cantidad": 806.4,
+"ClaveProdServ": "15101504",
+"NoIdentificacion": "TURBOSINA - I",
+"Cantidad": 22006,
 "ClaveUnidad": "LTR",
 "Unidad": "L",
-"Descripcion": "Gas Propano Juarez Nacional",
-"ValorUnitario": 10.1574,
-"Importe": 8190.93,
+"Descripcion": "Turbosina Importada",
+"ValorUnitario": 0.324,
+"Importe": 7129.94,
 "DescuentoSpecified": false
 }
 ],
@@ -190,11 +171,11 @@
 "Impuesto": "002",
 "TipoFactor": "Tasa",
 "TasaOCuota": 0.08,
-"Importe": 1223.62
+"Importe": 570.4
 }
 ],
 "TotalImpuestosRetenidosSpecified": false,
-"TotalImpuestosTrasladados": 1223.62,
+"TotalImpuestosTrasladados": 570.4,
 "TotalImpuestosTrasladadosSpecified": true
 },
 "Complemento": [
@@ -204,12 +185,12 @@
 "tfd:TimbreFiscalDigital": {
 "@xmlns:tfd": "http://www.sat.gob.mx/TimbreFiscalDigital",
 "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-"@FechaTimbrado": "2020-06-24T17:50:59",
+"@FechaTimbrado": "2020-06-15T14:52:37",
 "@NoCertificadoSAT": "00001000000412961981",
 "@RfcProvCertif": "FCG840618N51",
-"@SelloCFD": "PT8KOYxZv7d+ngyPOFlbRAhEZf7BzZeGFeCYHU25IA/8zcwhx4Hnu2xdwk2U6K+x+dLB1TU4auduIXZuw/mcCpsUGvCOweFjdQKw7AJNOOVJMIU7M5AcO27unmHKyRH198gDeTcLsoW3j4qhfLWLhnIViu4iQ5RxVbQUjQFLLGZxJJ6orFaM6KK4d7iBN5lVxdOliMxA2zxOoemqatX2o813gp2hokuZ99okGZM96JINg4Nv7I7X51GYYYwygSeBOOjiszj/kCt2Q7eLMC56q1SbP4yJ8jeEgD1GDKL4AGvUYO766yASiF+TOvrQdhTgpQrJY4HfdD/olRI1qqS0ow==",
-"@SelloSAT": "MB+hIT8OUMFjyt6rN/WL9o1FL9ywVcEWTX7twhNC7lnxA0RX9kfqHwyvcnNhH//W1nhdFccsGGZApB/TZTtlGtcWOZeWxtsrImesczkhTJM0G3oc6ueNK2jakqjuERIiJqHpgHMgls1UFAqyeicSrBBHmWoFqUXsjGzAxr+d6yiKqMdIXGE4XtwuDzKXB/WaOWYA3VrM8Ocg01RTlASK501qQV44hVW249fqF8CcCFhj95llvFzCe7n73R+hJDotmmaqWRQQmXgW1xtO8qDVxvazwlRLRtELALcYZXdgM4Co28vzQhUVYPzLWKdsuZOo54P8xXIlRerrxflH/5Cn3A==",
-"@UUID": "0C6B85C9-9376-4FF9-A923-E212DD29CD92",
+"@SelloCFD": "lx0qe3Sj8dRDllJp1MK7gvr2ubg0Wlc/7d9NE7B286CjSjtH1dYZSx/K92wTxH863/cakR7FwImYryFQ7dwmiZ6TjzGJHXeDPeGfoeHHjRUER2LSbP6q6nqW3p4+UIq9ha5HK90SQwsNfFBe2QVE6cmb2HIXLBLjIaNSrGEbE4jEs5yfcCaEd83RKnDIHBVzRkTLug3A/nM0xeekrK4ANC70368PLiuqx6OzRDiqcND83tnrwVEKfKzCj0VTU0DAe1kqBkwVAZmO9yLP+OjtM/nt94uj7YydfvYuYRUiukYgY9jfO1fP/jq/yXcrQc5/M7/YwQaWfDBO4+6LOwF30A==",
+"@SelloSAT": "BUrB8g/1RMmHSEsjSfQ2aMiTrAyHV5+62CbGfwehxxYgGykhT3Nt8H+CbL1E/0FwKHNlDxHNmrR8OEGwTeHZSkWJjC3G+rSqJrfFj7x63tqsplv/GHtV8FHWhfnS2PJabBK7EWBWBRaKVmEnNj0KoyagZQ9NROQATMs1XqvElK476IPv5uDPeolZxGuLeHAiAToWspf0xjxZ/1gkrQ8CMCXhLDRbhyJ5559E6CI6WcpsxLWT2zWZwnDWFVnjw48DQ0KQw+Sbf7sViVRIXqACno+89h2om7EEG+heKPuevjK/PsSTSX+DvbpKTkyij4QhE1ap0OnP8OcdEGgqaNA2/w==",
+"@UUID": "3D6CC9DB-BFCF-4AFE-A2B4-789E6730416E",
 "@Version": "1.1",
 "@xsi:schemaLocation": "http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/timbrefiscaldigital/TimbreFiscalDigitalv11.xsd"
 }
@@ -220,22 +201,157 @@
 "Addenda": null,
 "Version": "3.3",
 "Serie": null,
-"Folio": "119487",
-"Fecha": "2020-06-23T16:52:45",
-"Sello": "PT8KOYxZv7d+ngyPOFlbRAhEZf7BzZeGFeCYHU25IA/8zcwhx4Hnu2xdwk2U6K+x+dLB1TU4auduIXZuw/mcCpsUGvCOweFjdQKw7AJNOOVJMIU7M5AcO27unmHKyRH198gDeTcLsoW3j4qhfLWLhnIViu4iQ5RxVbQUjQFLLGZxJJ6orFaM6KK4d7iBN5lVxdOliMxA2zxOoemqatX2o813gp2hokuZ99okGZM96JINg4Nv7I7X51GYYYwygSeBOOjiszj/kCt2Q7eLMC56q1SbP4yJ8jeEgD1GDKL4AGvUYO766yASiF+TOvrQdhTgpQrJY4HfdD/olRI1qqS0ow==",
-"FormaPago": "01",
+"Folio": "118952",
+"Fecha": "2020-06-15T13:52:34",
+"Sello": "lx0qe3Sj8dRDllJp1MK7gvr2ubg0Wlc/7d9NE7B286CjSjtH1dYZSx/K92wTxH863/cakR7FwImYryFQ7dwmiZ6TjzGJHXeDPeGfoeHHjRUER2LSbP6q6nqW3p4+UIq9ha5HK90SQwsNfFBe2QVE6cmb2HIXLBLjIaNSrGEbE4jEs5yfcCaEd83RKnDIHBVzRkTLug3A/nM0xeekrK4ANC70368PLiuqx6OzRDiqcND83tnrwVEKfKzCj0VTU0DAe1kqBkwVAZmO9yLP+OjtM/nt94uj7YydfvYuYRUiukYgY9jfO1fP/jq/yXcrQc5/M7/YwQaWfDBO4+6LOwF30A==",
+"FormaPago": "99",
 "FormaPagoSpecified": true,
 "NoCertificado": "00001000000403994658",
 "Certificado": "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",
-"CondicionesDePago": "2020-06-23",
-"SubTotal": 15295.3,
+"CondicionesDePago": null,
+"SubTotal": 7129.94,
+"DescuentoSpecified": false,
+"Moneda": "USD",
+"TipoCambio": 22.4252,
+"TipoCambioSpecified": true,
+"Total": 7700.34,
+"TipoDeComprobante": "I",
+"MetodoPago": "PPD",
+"MetodoPagoSpecified": true,
+"LugarExpedicion": "32459",
+"Confirmacion": null
+},
+{
+"xsiSchemaLocation": "http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd",
+"CfdiRelacionados": {
+"CfdiRelacionado": [],
+"TipoRelacion": ""
+},
+"Emisor": {
+"Rfc": "CCD070607PL6",
+"Nombre": "COMERCIALIZADORA DE COMBUSTIBLES Y DERIVADOS FUENTES SA DE CV",
+"RegimenFiscal": "601"
+},
+"Receptor": {
+"Rfc": "ANA050518RL1",
+"Nombre": "AEROENLACES NACIONALES SA DE CV",
+"ResidenciaFiscalSpecified": false,
+"NumRegIdTrib": null,
+"UsoCFDI": "G03"
+},
+"Conceptos": [
+{
+"Impuestos": {
+"Traslados": [
+{
+"Base": 30162.72,
+"Impuesto": "002",
+"TipoFactor": "Tasa",
+"TasaOCuota": 0.16,
+"TasaOCuotaSpecified": true,
+"Importe": 4826.03,
+"ImporteSpecified": true
+}
+],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "78141504",
+"NoIdentificacion": "SERV00002",
+"Cantidad": 206.481,
+"ClaveUnidad": "E48",
+"Unidad": "SERVICIO",
+"Descripcion": "ALMACENAMIENTO TURBOSINA",
+"ValorUnitario": 146.0799,
+"Importe": 30162.72,
+"DescuentoSpecified": false
+},
+{
+"Impuestos": {
+"Traslados": [
+{
+"Base": 2064.81,
+"Impuesto": "002",
+"TipoFactor": "Tasa",
+"TasaOCuota": 0.16,
+"TasaOCuotaSpecified": true,
+"Importe": 330.37,
+"ImporteSpecified": true
+}
+],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "78141504",
+"NoIdentificacion": "SERV00005",
+"Cantidad": 206.481,
+"ClaveUnidad": "E48",
+"Unidad": "SERVICIO",
+"Descripcion": "USO HIDRANTE TURBOSINA",
+"ValorUnitario": 10,
+"Importe": 2064.81,
+"DescuentoSpecified": false
+}
+],
+"Impuestos": {
+"Retenciones": [],
+"Traslados": [
+{
+"Impuesto": "002",
+"TipoFactor": "Tasa",
+"TasaOCuota": 0.16,
+"Importe": 5156.4
+}
+],
+"TotalImpuestosRetenidosSpecified": false,
+"TotalImpuestosTrasladados": 5156.4,
+"TotalImpuestosTrasladadosSpecified": true
+},
+"Complemento": [
+{
+"Any": [
+{
+"tfd:TimbreFiscalDigital": {
+"@xmlns:tfd": "http://www.sat.gob.mx/TimbreFiscalDigital",
+"@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+"@FechaTimbrado": "2020-06-24T13:17:18",
+"@NoCertificadoSAT": "00001000000412961981",
+"@RfcProvCertif": "FCG840618N51",
+"@SelloCFD": "oJ5oOCrRdcHCKWPuQ8X9Aemjy2yixtPAyil3Ay5kSqsIlnPCocrl/nux6SrU4OwLxBB9eSQm6ddVnXI4LvhCXCcLgy9AkwTpS48LEBGkKcov321um7/uZNqqpyRPW26MTFdYQ1l//vl2nSYM4rE2tc64iQmzKYW/K2vBahiQI3xcbpjI5rgESfR7t3wzPYkk4Hx7jkZFJRD8KnP/fnLin3GwDwm870GIetY6TthO377FLvTKGU0O7SNfl63EknUyGLb/VtxKESItORKyynIb0n59oXO9ILM4CiEvLtGCNpSz3tTnzMqLrvpiqqYbBRKzBSkzJLrEueZw2OVtciIjMw==",
+"@SelloSAT": "PpLphVd7W+BjcihLTT90btXSBOMF0as+U6MtnFSL9KFmwvkPBlEJbEK7VXhlax75DPJ8OqEdHArUcIkkyQ1ggwjwss/0xQ2+GXDCoz17iSRmwwp/+zndZALzvddH/mlmDnkXCaAG9fdD2YPqhW3OmrvBwcTe+Nn95uPx3Cxxyr+5X90Z5SRMZ1RXAwEeNTbJCkDwmJANLewsoYKi/tn0uT+QmPr6tv263JjEDFz2FXGAISjOJtdY6jilzFBSm1SEA13c0Gt/6rC1CYwomiRYFSFGgyQ2HRVawOFbxgm6JdkmHYlWUmnzHwMV7GRM4jVTxXW3ehjugoBRtWW57ESNeg==",
+"@UUID": "DB72DBB3-EDE5-4542-8D7E-E7C4D50497D9",
+"@Version": "1.1",
+"@xsi:schemaLocation": "http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/timbrefiscaldigital/TimbreFiscalDigitalv11.xsd"
+}
+}
+]
+}
+],
+"Addenda": null,
+"Version": "3.3",
+"Serie": null,
+"Folio": "119466",
+"Fecha": "2020-06-24T12:19:03",
+"Sello": "oJ5oOCrRdcHCKWPuQ8X9Aemjy2yixtPAyil3Ay5kSqsIlnPCocrl/nux6SrU4OwLxBB9eSQm6ddVnXI4LvhCXCcLgy9AkwTpS48LEBGkKcov321um7/uZNqqpyRPW26MTFdYQ1l//vl2nSYM4rE2tc64iQmzKYW/K2vBahiQI3xcbpjI5rgESfR7t3wzPYkk4Hx7jkZFJRD8KnP/fnLin3GwDwm870GIetY6TthO377FLvTKGU0O7SNfl63EknUyGLb/VtxKESItORKyynIb0n59oXO9ILM4CiEvLtGCNpSz3tTnzMqLrvpiqqYbBRKzBSkzJLrEueZw2OVtciIjMw==",
+"FormaPago": "99",
+"FormaPagoSpecified": true,
+"NoCertificado": "00001000000403994658",
+"Certificado": "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",
+"CondicionesDePago": "2020-07-20",
+"SubTotal": 32227.53,
 "DescuentoSpecified": false,
 "Moneda": "MXN",
 "TipoCambio": 1,
 "TipoCambioSpecified": true,
-"Total": 16518.92,
+"Total": 37383.93,
 "TipoDeComprobante": "I",
-"MetodoPago": "PUE",
+"MetodoPago": "PPD",
 "MetodoPagoSpecified": true,
 "LugarExpedicion": "32459",
 "Confirmacion": null
