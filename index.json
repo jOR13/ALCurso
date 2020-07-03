@@ -480,4 +480,1603 @@
 "MetodoPagoSpecified": true,
 "LugarExpedicion": "32459",
 "Confirmacion": null
-}]
+},
+ {
+"xsiSchemaLocation": "http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd",
+"CfdiRelacionados": {
+"CfdiRelacionado": [],
+"TipoRelacion": ""
+},
+"Emisor": {
+"Rfc": "CCD070607PL6",
+"Nombre": "COMERCIALIZADORA DE COMBUSTIBLES Y DERIVADOS FUENTES SA DE CV",
+"RegimenFiscal": "601"
+},
+"Receptor": {
+"Rfc": "XAXX010101000",
+"Nombre": "CLIENTE PUBLICO EN GENERAL NAC",
+"ResidenciaFiscalSpecified": false,
+"NumRegIdTrib": null,
+"UsoCFDI": "P01"
+},
+"Conceptos": [
+{
+"Impuestos": {
+"Traslados": [
+{
+"Base": 9403.53,
+"Impuesto": "002",
+"TipoFactor": "Tasa",
+"TasaOCuota": "0.160000",
+"TasaOCuotaSpecified": true,
+"Importe": 1504.56,
+"ImporteSpecified": true
+}
+],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 1425.9,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "Gas Propano Monterrey Nacional",
+"ValorUnitario": 6.5948,
+"Importe": 9403.53,
+"DescuentoSpecified": false
+},
+{
+"Impuestos": {
+"Traslados": [
+{
+"Base": 3255.85,
+"Impuesto": "002",
+"TipoFactor": "Tasa",
+"TasaOCuota": "0.160000",
+"TasaOCuotaSpecified": true,
+"Importe": 520.94,
+"ImporteSpecified": true
+}
+],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 493.7,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "Gas Propano Monterrey Nacional",
+"ValorUnitario": 6.5948,
+"Importe": 3255.85,
+"DescuentoSpecified": false
+},
+{
+"Impuestos": {
+"Traslados": [
+{
+"Base": 3209.03,
+"Impuesto": "002",
+"TipoFactor": "Tasa",
+"TasaOCuota": "0.160000",
+"TasaOCuotaSpecified": true,
+"Importe": 513.45,
+"ImporteSpecified": true
+}
+],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 486.6,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "Gas Propano Monterrey Nacional",
+"ValorUnitario": 6.5948,
+"Importe": 3209.03,
+"DescuentoSpecified": false
+},
+{
+"Impuestos": {
+"Traslados": [
+{
+"Base": 5815.95,
+"Impuesto": "002",
+"TipoFactor": "Tasa",
+"TasaOCuota": "0.160000",
+"TasaOCuotaSpecified": true,
+"Importe": 930.55,
+"ImporteSpecified": true
+}
+],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 881.9,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "Gas Propano Monterrey Nacional",
+"ValorUnitario": 6.5948,
+"Importe": 5815.95,
+"DescuentoSpecified": false
+},
+{
+"Impuestos": {
+"Traslados": [
+{
+"Base": 7684.92,
+"Impuesto": "002",
+"TipoFactor": "Tasa",
+"TasaOCuota": "0.160000",
+"TasaOCuotaSpecified": true,
+"Importe": 1229.58,
+"ImporteSpecified": true
+}
+],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 1165.3,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "Gas Propano Monterrey Nacional",
+"ValorUnitario": 6.5948,
+"Importe": 7684.92,
+"DescuentoSpecified": false
+},
+{
+"Impuestos": {
+"Traslados": [
+{
+"Base": 9371.21,
+"Impuesto": "002",
+"TipoFactor": "Tasa",
+"TasaOCuota": "0.160000",
+"TasaOCuotaSpecified": true,
+"Importe": 1499.4,
+"ImporteSpecified": true
+}
+],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 1421,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "Gas Propano Monterrey Nacional",
+"ValorUnitario": 6.5948,
+"Importe": 9371.21,
+"DescuentoSpecified": false
+},
+{
+"Impuestos": {
+"Traslados": [
+{
+"Base": 12432.52,
+"Impuesto": "002",
+"TipoFactor": "Tasa",
+"TasaOCuota": "0.160000",
+"TasaOCuotaSpecified": true,
+"Importe": 1989.2,
+"ImporteSpecified": true
+}
+],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 1885.2,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "Gas Propano Monterrey Nacional",
+"ValorUnitario": 6.5948,
+"Importe": 12432.52,
+"DescuentoSpecified": false
+},
+{
+"Impuestos": {
+"Traslados": [
+{
+"Base": 3164.19,
+"Impuesto": "002",
+"TipoFactor": "Tasa",
+"TasaOCuota": "0.160000",
+"TasaOCuotaSpecified": true,
+"Importe": 506.27,
+"ImporteSpecified": true
+}
+],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 479.8,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "Gas Propano Monterrey Nacional",
+"ValorUnitario": 6.5948,
+"Importe": 3164.19,
+"DescuentoSpecified": false
+},
+{
+"Impuestos": {
+"Traslados": [
+{
+"Base": 9055.98,
+"Impuesto": "002",
+"TipoFactor": "Tasa",
+"TasaOCuota": "0.160000",
+"TasaOCuotaSpecified": true,
+"Importe": 1448.96,
+"ImporteSpecified": true
+}
+],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 1373.2,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "Gas Propano Monterrey Nacional",
+"ValorUnitario": 6.5948,
+"Importe": 9055.98,
+"DescuentoSpecified": false
+},
+{
+"Impuestos": {
+"Traslados": [
+{
+"Base": 3756.4,
+"Impuesto": "002",
+"TipoFactor": "Tasa",
+"TasaOCuota": "0.160000",
+"TasaOCuotaSpecified": true,
+"Importe": 601.02,
+"ImporteSpecified": true
+}
+],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 569.6,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "Gas Propano Monterrey Nacional",
+"ValorUnitario": 6.5948,
+"Importe": 3756.4,
+"DescuentoSpecified": false
+},
+{
+"Impuestos": {
+"Traslados": [
+{
+"Base": 7616.99,
+"Impuesto": "002",
+"TipoFactor": "Tasa",
+"TasaOCuota": "0.160000",
+"TasaOCuotaSpecified": true,
+"Importe": 1218.72,
+"ImporteSpecified": true
+}
+],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 1155,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "Gas Propano Monterrey Nacional",
+"ValorUnitario": 6.5948,
+"Importe": 7616.99,
+"DescuentoSpecified": false
+},
+{
+"Impuestos": {
+"Traslados": [
+{
+"Base": 9615.22,
+"Impuesto": "002",
+"TipoFactor": "Tasa",
+"TasaOCuota": "0.160000",
+"TasaOCuotaSpecified": true,
+"Importe": 1538.44,
+"ImporteSpecified": true
+}
+],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 1458,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "Gas Propano Monterrey Nacional",
+"ValorUnitario": 6.5948,
+"Importe": 9615.22,
+"DescuentoSpecified": false
+},
+{
+"Impuestos": {
+"Traslados": [
+{
+"Base": 8507.29,
+"Impuesto": "002",
+"TipoFactor": "Tasa",
+"TasaOCuota": "0.160000",
+"TasaOCuotaSpecified": true,
+"Importe": 1361.16,
+"ImporteSpecified": true
+}
+],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 1290,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "Gas Propano Monterrey Nacional",
+"ValorUnitario": 6.5948,
+"Importe": 8507.29,
+"DescuentoSpecified": false
+},
+{
+"Impuestos": {
+"Traslados": [
+{
+"Base": 6106.78,
+"Impuesto": "002",
+"TipoFactor": "Tasa",
+"TasaOCuota": "0.160000",
+"TasaOCuotaSpecified": true,
+"Importe": 977.09,
+"ImporteSpecified": true
+}
+],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 926,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "Gas Propano Monterrey Nacional",
+"ValorUnitario": 6.5948,
+"Importe": 6106.78,
+"DescuentoSpecified": false
+},
+{
+"Impuestos": {
+"Traslados": [
+{
+"Base": 9991.12,
+"Impuesto": "002",
+"TipoFactor": "Tasa",
+"TasaOCuota": "0.160000",
+"TasaOCuotaSpecified": true,
+"Importe": 1598.58,
+"ImporteSpecified": true
+}
+],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 1515,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "Gas Propano Monterrey Nacional",
+"ValorUnitario": 6.5948,
+"Importe": 9991.12,
+"DescuentoSpecified": false
+},
+{
+"Impuestos": {
+"Traslados": [
+{
+"Base": 5501.38,
+"Impuesto": "002",
+"TipoFactor": "Tasa",
+"TasaOCuota": "0.160000",
+"TasaOCuotaSpecified": true,
+"Importe": 880.22,
+"ImporteSpecified": true
+}
+],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 834.2,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "Gas Propano Monterrey Nacional",
+"ValorUnitario": 6.5948,
+"Importe": 5501.38,
+"DescuentoSpecified": false
+},
+{
+"Impuestos": {
+"Traslados": [
+{
+"Base": 9860.54,
+"Impuesto": "002",
+"TipoFactor": "Tasa",
+"TasaOCuota": "0.160000",
+"TasaOCuotaSpecified": true,
+"Importe": 1577.68,
+"ImporteSpecified": true
+}
+],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 1495.2,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "Gas Propano Monterrey Nacional",
+"ValorUnitario": 6.5948,
+"Importe": 9860.54,
+"DescuentoSpecified": false
+},
+{
+"Impuestos": {
+"Traslados": [
+{
+"Base": 6956.2,
+"Impuesto": "002",
+"TipoFactor": "Tasa",
+"TasaOCuota": "0.160000",
+"TasaOCuotaSpecified": true,
+"Importe": 1112.99,
+"ImporteSpecified": true
+}
+],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 1054.8,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "Gas Propano Monterrey Nacional",
+"ValorUnitario": 6.5948,
+"Importe": 6956.2,
+"DescuentoSpecified": false
+},
+{
+"Impuestos": {
+"Traslados": [
+{
+"Base": 10617.63,
+"Impuesto": "002",
+"TipoFactor": "Tasa",
+"TasaOCuota": "0.160000",
+"TasaOCuotaSpecified": true,
+"Importe": 1698.82,
+"ImporteSpecified": true
+}
+],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 1610,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "Gas Propano Monterrey Nacional",
+"ValorUnitario": 6.5948,
+"Importe": 10617.63,
+"DescuentoSpecified": false
+},
+{
+"Impuestos": {
+"Traslados": [
+{
+"Base": 7590.61,
+"Impuesto": "002",
+"TipoFactor": "Tasa",
+"TasaOCuota": "0.160000",
+"TasaOCuotaSpecified": true,
+"Importe": 1214.5,
+"ImporteSpecified": true
+}
+],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 1151,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "Gas Propano Monterrey Nacional",
+"ValorUnitario": 6.5948,
+"Importe": 7590.61,
+"DescuentoSpecified": false
+},
+{
+"Impuestos": {
+"Traslados": [
+{
+"Base": 23385.16,
+"Impuesto": "002",
+"TipoFactor": "Tasa",
+"TasaOCuota": "0.160000",
+"TasaOCuotaSpecified": true,
+"Importe": 3741.63,
+"ImporteSpecified": true
+}
+],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 3546,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "Gas Propano Monterrey Nacional",
+"ValorUnitario": 6.5948,
+"Importe": 23385.16,
+"DescuentoSpecified": false
+},
+{
+"Impuestos": {
+"Traslados": [
+{
+"Base": 10010.91,
+"Impuesto": "002",
+"TipoFactor": "Tasa",
+"TasaOCuota": "0.160000",
+"TasaOCuotaSpecified": true,
+"Importe": 1601.74,
+"ImporteSpecified": true
+}
+],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 1518,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "Gas Propano Monterrey Nacional",
+"ValorUnitario": 6.5948,
+"Importe": 10010.91,
+"DescuentoSpecified": false
+},
+{
+"Impuestos": {
+"Traslados": [
+{
+"Base": 4781.23,
+"Impuesto": "002",
+"TipoFactor": "Tasa",
+"TasaOCuota": "0.160000",
+"TasaOCuotaSpecified": true,
+"Importe": 765,
+"ImporteSpecified": true
+}
+],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 725,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "Gas Propano Monterrey Nacional",
+"ValorUnitario": 6.5948,
+"Importe": 4781.23,
+"DescuentoSpecified": false
+},
+{
+"Impuestos": {
+"Traslados": [
+{
+"Base": 22158.53,
+"Impuesto": "002",
+"TipoFactor": "Tasa",
+"TasaOCuota": "0.160000",
+"TasaOCuotaSpecified": true,
+"Importe": 3545.36,
+"ImporteSpecified": true
+}
+],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 3360,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "Gas Propano Monterrey Nacional",
+"ValorUnitario": 6.5948,
+"Importe": 22158.53,
+"DescuentoSpecified": false
+},
+{
+"Impuestos": {
+"Traslados": [
+{
+"Base": 2426.89,
+"Impuesto": "002",
+"TipoFactor": "Tasa",
+"TasaOCuota": "0.160000",
+"TasaOCuotaSpecified": true,
+"Importe": 388.31,
+"ImporteSpecified": true
+}
+],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 368,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "Gas Propano Monterrey Nacional",
+"ValorUnitario": 6.5948,
+"Importe": 2426.89,
+"DescuentoSpecified": false
+},
+{
+"Impuestos": {
+"Traslados": [
+{
+"Base": 5018.64,
+"Impuesto": "002",
+"TipoFactor": "Tasa",
+"TasaOCuota": "0.160000",
+"TasaOCuotaSpecified": true,
+"Importe": 802.98,
+"ImporteSpecified": true
+}
+],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 761,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "Gas Propano Monterrey Nacional",
+"ValorUnitario": 6.5948,
+"Importe": 5018.64,
+"DescuentoSpecified": false
+},
+{
+"Impuestos": {
+"Traslados": [
+{
+"Base": 10469.9,
+"Impuesto": "002",
+"TipoFactor": "Tasa",
+"TasaOCuota": "0.160000",
+"TasaOCuotaSpecified": true,
+"Importe": 1675.18,
+"ImporteSpecified": true
+}
+],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 1587.6,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "Gas Propano Monterrey Nacional",
+"ValorUnitario": 6.5948,
+"Importe": 10469.9,
+"DescuentoSpecified": false
+},
+{
+"Impuestos": {
+"Traslados": [
+{
+"Base": 21841.98,
+"Impuesto": "002",
+"TipoFactor": "Tasa",
+"TasaOCuota": "0.160000",
+"TasaOCuotaSpecified": true,
+"Importe": 3494.72,
+"ImporteSpecified": true
+}
+],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 3312,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "Gas Propano Monterrey Nacional",
+"ValorUnitario": 6.5948,
+"Importe": 21841.98,
+"DescuentoSpecified": false
+},
+{
+"Impuestos": {
+"Traslados": [
+{
+"Base": 5328.6,
+"Impuesto": "002",
+"TipoFactor": "Tasa",
+"TasaOCuota": "0.160000",
+"TasaOCuotaSpecified": true,
+"Importe": 852.58,
+"ImporteSpecified": true
+}
+],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 808,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "Gas Propano Monterrey Nacional",
+"ValorUnitario": 6.5948,
+"Importe": 5328.6,
+"DescuentoSpecified": false
+},
+{
+"Impuestos": {
+"Traslados": [
+{
+"Base": 19243.63,
+"Impuesto": "002",
+"TipoFactor": "Tasa",
+"TasaOCuota": "0.160000",
+"TasaOCuotaSpecified": true,
+"Importe": 3078.98,
+"ImporteSpecified": true
+}
+],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 2918,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "Gas Propano Monterrey Nacional",
+"ValorUnitario": 6.5948,
+"Importe": 19243.63,
+"DescuentoSpecified": false
+},
+{
+"Impuestos": {
+"Traslados": [],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 1352,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "PROMOCION 2X1",
+"ValorUnitario": 6.5948,
+"Importe": 8916.17,
+"Descuento": 8916.17,
+"DescuentoSpecified": true
+},
+{
+"Impuestos": {
+"Traslados": [],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 251,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "PROMOCION 2X1",
+"ValorUnitario": 6.5948,
+"Importe": 1655.29,
+"Descuento": 1655.29,
+"DescuentoSpecified": true
+},
+{
+"Impuestos": {
+"Traslados": [],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 458.8,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "PROMOCION 2X1",
+"ValorUnitario": 6.5948,
+"Importe": 3025.69,
+"Descuento": 3025.69,
+"DescuentoSpecified": true
+},
+{
+"Impuestos": {
+"Traslados": [],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 810.9,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "PROMOCION 2X1",
+"ValorUnitario": 6.5948,
+"Importe": 5347.72,
+"Descuento": 5347.72,
+"DescuentoSpecified": true
+},
+{
+"Impuestos": {
+"Traslados": [],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 1073.1,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "PROMOCION 2X1",
+"ValorUnitario": 6.5948,
+"Importe": 7076.88,
+"Descuento": 7076.88,
+"DescuentoSpecified": true
+},
+{
+"Impuestos": {
+"Traslados": [],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 1406.5,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "PROMOCION 2X1",
+"ValorUnitario": 6.5948,
+"Importe": 9275.59,
+"Descuento": 9275.59,
+"DescuentoSpecified": true
+},
+{
+"Impuestos": {
+"Traslados": [],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 1839.3,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "PROMOCION 2X1",
+"ValorUnitario": 6.5948,
+"Importe": 12129.82,
+"Descuento": 12129.82,
+"DescuentoSpecified": true
+},
+{
+"Impuestos": {
+"Traslados": [],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 462.9,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "PROMOCION 2X1",
+"ValorUnitario": 6.5948,
+"Importe": 3052.73,
+"Descuento": 3052.73,
+"DescuentoSpecified": true
+},
+{
+"Impuestos": {
+"Traslados": [],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 1362,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "PROMOCION 2X1",
+"ValorUnitario": 6.5948,
+"Importe": 8982.12,
+"Descuento": 8982.12,
+"DescuentoSpecified": true
+},
+{
+"Impuestos": {
+"Traslados": [],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 514,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "PROMOCION 2X1",
+"ValorUnitario": 6.5948,
+"Importe": 3389.73,
+"Descuento": 3389.73,
+"DescuentoSpecified": true
+},
+{
+"Impuestos": {
+"Traslados": [],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 1117,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "PROMOCION 2X1",
+"ValorUnitario": 6.5948,
+"Importe": 7366.39,
+"Descuento": 7366.39,
+"DescuentoSpecified": true
+},
+{
+"Impuestos": {
+"Traslados": [],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 1421,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "PROMOCION 2X1",
+"ValorUnitario": 6.5948,
+"Importe": 9371.21,
+"Descuento": 9371.21,
+"DescuentoSpecified": true
+},
+{
+"Impuestos": {
+"Traslados": [],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 1223,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "PROMOCION 2X1",
+"ValorUnitario": 6.5948,
+"Importe": 8065.44,
+"Descuento": 8065.44,
+"DescuentoSpecified": true
+},
+{
+"Impuestos": {
+"Traslados": [],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 956.6,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "PROMOCION 2X1",
+"ValorUnitario": 6.5948,
+"Importe": 6308.59,
+"Descuento": 6308.59,
+"DescuentoSpecified": true
+},
+{
+"Impuestos": {
+"Traslados": [],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 1436,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "PROMOCION 2X1",
+"ValorUnitario": 6.5948,
+"Importe": 9470.13,
+"Descuento": 9470.13,
+"DescuentoSpecified": true
+},
+{
+"Impuestos": {
+"Traslados": [],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 819.7,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "PROMOCION 2X1",
+"ValorUnitario": 6.5948,
+"Importe": 5405.76,
+"Descuento": 5405.76,
+"DescuentoSpecified": true
+},
+{
+"Impuestos": {
+"Traslados": [],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 1495,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "PROMOCION 2X1",
+"ValorUnitario": 6.5948,
+"Importe": 9859.23,
+"Descuento": 9859.23,
+"DescuentoSpecified": true
+},
+{
+"Impuestos": {
+"Traslados": [],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 956.7,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "PROMOCION 2X1",
+"ValorUnitario": 6.5948,
+"Importe": 6309.25,
+"Descuento": 6309.25,
+"DescuentoSpecified": true
+},
+{
+"Impuestos": {
+"Traslados": [],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 1521.4,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "PROMOCION 2X1",
+"ValorUnitario": 6.5948,
+"Importe": 10033.33,
+"Descuento": 10033.33,
+"DescuentoSpecified": true
+},
+{
+"Impuestos": {
+"Traslados": [],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 1085,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "PROMOCION 2X1",
+"ValorUnitario": 6.5948,
+"Importe": 7155.36,
+"Descuento": 7155.36,
+"DescuentoSpecified": true
+},
+{
+"Impuestos": {
+"Traslados": [],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 3222,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "PROMOCION 2X1",
+"ValorUnitario": 6.5948,
+"Importe": 21248.45,
+"Descuento": 21248.45,
+"DescuentoSpecified": true
+},
+{
+"Impuestos": {
+"Traslados": [],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 1468,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "PROMOCION 2X1",
+"ValorUnitario": 6.5948,
+"Importe": 9681.17,
+"Descuento": 9681.17,
+"DescuentoSpecified": true
+},
+{
+"Impuestos": {
+"Traslados": [],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 662,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "PROMOCION 2X1",
+"ValorUnitario": 6.5948,
+"Importe": 4365.76,
+"Descuento": 4365.76,
+"DescuentoSpecified": true
+},
+{
+"Impuestos": {
+"Traslados": [],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 3360,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "PROMOCION 2X1",
+"ValorUnitario": 6.5948,
+"Importe": 22158.53,
+"Descuento": 22158.53,
+"DescuentoSpecified": true
+},
+{
+"Impuestos": {
+"Traslados": [],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 428,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "PROMOCION 2X1",
+"ValorUnitario": 6.5948,
+"Importe": 2822.57,
+"Descuento": 2822.57,
+"DescuentoSpecified": true
+},
+{
+"Impuestos": {
+"Traslados": [],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 722,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "PROMOCION 2X1",
+"ValorUnitario": 6.5948,
+"Importe": 4761.45,
+"Descuento": 4761.45,
+"DescuentoSpecified": true
+},
+{
+"Impuestos": {
+"Traslados": [],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 1543.2,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "PROMOCION 2X1",
+"ValorUnitario": 6.5948,
+"Importe": 10177.1,
+"Descuento": 10177.1,
+"DescuentoSpecified": true
+},
+{
+"Impuestos": {
+"Traslados": [],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 3572,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "PROMOCION 2X1",
+"ValorUnitario": 6.5948,
+"Importe": 23556.63,
+"Descuento": 23556.63,
+"DescuentoSpecified": true
+},
+{
+"Impuestos": {
+"Traslados": [],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 772,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "PROMOCION 2X1",
+"ValorUnitario": 6.5948,
+"Importe": 5091.19,
+"Descuento": 5091.19,
+"DescuentoSpecified": true
+},
+{
+"Impuestos": {
+"Traslados": [],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 2801,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "PROMOCION 2X1",
+"ValorUnitario": 6.5948,
+"Importe": 18472.03,
+"Descuento": 18472.03,
+"DescuentoSpecified": true
+},
+{
+"Impuestos": {
+"Traslados": [
+{
+"Base": 4702.09,
+"Impuesto": "002",
+"TipoFactor": "Tasa",
+"TasaOCuota": "0.160000",
+"TasaOCuotaSpecified": true,
+"Importe": 752.33,
+"ImporteSpecified": true
+}
+],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 713,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "Gas Propano Monterrey Nacional",
+"ValorUnitario": 6.5948,
+"Importe": 4702.09,
+"DescuentoSpecified": false
+},
+{
+"Impuestos": {
+"Traslados": [],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15111501",
+"NoIdentificacion": "GAS MTY - N",
+"Cantidad": 690,
+"ClaveUnidad": "LTR",
+"Unidad": "L",
+"Descripcion": "PROMOCION 2X1",
+"ValorUnitario": 6.5948,
+"Importe": 4550.41,
+"Descuento": 4550.41,
+"DescuentoSpecified": true
+}
+],
+"Impuestos": {
+"Retenciones": [],
+"Traslados": [
+{
+"Impuesto": "002",
+"TipoFactor": "Tasa",
+"TasaOCuota": "0.160000",
+"Importe": 44620.94
+}
+],
+"TotalImpuestosRetenidosSpecified": false,
+"TotalImpuestosTrasladados": 44620.94,
+"TotalImpuestosTrasladadosSpecified": true
+},
+"Complemento": [
+{
+"Any": [
+{
+"tfd:TimbreFiscalDigital": {
+"@xmlns:tfd": "http://www.sat.gob.mx/TimbreFiscalDigital",
+"@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+"@FechaTimbrado": "2020-07-02T16:59:16",
+"@NoCertificadoSAT": "00001000000412961981",
+"@RfcProvCertif": "FCG840618N51",
+"@SelloCFD": "aiA+AUOcSOUWb4AVR2zjlMvCKR9wmelPmOijY3T+xHUNeNUCtSSx84U2ETVH/PG7JnW366O0DoiyLDxakZDCjcnYdWVlA45M1dLt5bYdpZzR24kIN3GEfe3iMMx6HF6d2N8XljLv337yVR0qerTIe65AoXShTJCZ/6KEsSmYwvEFAYe2ELjuAKaJdJwA6H+kx6a2Oyw90dqoSjNhc4UjOOeZkKynDJG0tJQhyMoWADwAVuAv2VvbaSPG8xpcOPffOj007XgzPBMxECWaoy7n3Lv4V72gX+lMnwveN9IXFdN3q+waiYxqHt0h9iWkgc7cx+aMz8Kyby9XyX4a/yu5HQ==",
+"@SelloSAT": "Qbf+dEY+qNhXLerhfYkWd/GQTSSahnkvHhaRO+I7rAu9A5OWJ3719E1uLdA31S366DcmMyPvwYZIzUbSUuUfIuHcX/L4CmBSEv6OINXwHBMbXL9oyXn0uBDkw2sVNAqJBydF5ZEWK79F0VDqpgICxByCP0WS7ovE/L5SXPbZCHUX81tezczLNC1/b/IL1REJUV7ZYYY33/AVC2lgKxjQUR+x+YKiz4yGanJbLXxsxHJ4WX2ZmcwTo6ZiRI3zPGKQPTqxfSoQggFWx5QYW1QofGGqwO7iHrjIlnYX+bjvxKcfFLEOlT5Shlq4eGsqrGUpvu4LEx09DsBy8IpCo0dU8g==",
+"@UUID": "2B92C5BC-8722-44AC-8F59-738A0FFB84F6",
+"@Version": "1.1",
+"@xsi:schemaLocation": "http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/timbrefiscaldigital/TimbreFiscalDigitalv11.xsd"
+}
+}
+]
+}
+],
+"Addenda": null,
+"Version": "3.3",
+"Serie": null,
+"Folio": "119887",
+"Fecha": "2020-06-30T16:01:05",
+"Sello": "aiA+AUOcSOUWb4AVR2zjlMvCKR9wmelPmOijY3T+xHUNeNUCtSSx84U2ETVH/PG7JnW366O0DoiyLDxakZDCjcnYdWVlA45M1dLt5bYdpZzR24kIN3GEfe3iMMx6HF6d2N8XljLv337yVR0qerTIe65AoXShTJCZ/6KEsSmYwvEFAYe2ELjuAKaJdJwA6H+kx6a2Oyw90dqoSjNhc4UjOOeZkKynDJG0tJQhyMoWADwAVuAv2VvbaSPG8xpcOPffOj007XgzPBMxECWaoy7n3Lv4V72gX+lMnwveN9IXFdN3q+waiYxqHt0h9iWkgc7cx+aMz8Kyby9XyX4a/yu5HQ==",
+"FormaPago": "01",
+"FormaPagoSpecified": true,
+"NoCertificado": "00001000000403994658",
+"Certificado": "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",
+"CondicionesDePago": "2020-06-30",
+"SubTotal": 547962.62,
+"Descuento": 269081.72,
+"DescuentoSpecified": true,
+"Moneda": "MXN",
+"TipoCambio": 1,
+"TipoCambioSpecified": true,
+"Total": 323501.84,
+"TipoDeComprobante": "I",
+"MetodoPago": "PUE",
+"MetodoPagoSpecified": true,
+"LugarExpedicion": "32459",
+"Confirmacion": null
+}
+]
+]
