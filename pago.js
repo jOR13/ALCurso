@@ -28,7 +28,7 @@
                   "DoctoRelacionado": [
                      {
                         "_Folio": "DC019438",
-                        "_IdDocumento": "B29B2E51-7564-46AC-B17D-372FAA96C865",
+                        "_IdDocumento": "KL0S2E51-7564-46AC-B17D-372FAA96C865",
                         "_ImpPagado": "1018.02",
                         "_ImpSaldoAnt": "1018.02",
                         "_ImpSaldoInsoluto": "0",
