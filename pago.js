@@ -3,11 +3,11 @@
       "Emisor": {
          "_Nombre": "COMERCIALIZADORA DE COMBUSTIBLES Y DERIVADOS FUENTES SA DE CV",
          "_RegimenFiscal": "601",
-         "_Rfc": "CCD070607PL6"
+         "_Rfc": "EKU9003173C9"
       },
       "Receptor": {
-         "_Nombre": "DISTRIBUIDORA DE PRODUCTOS DESHIDRATADOS SA DE CV",
-         "_Rfc": "DPD930421N94",
+         "_Nombre": "RICARDO ZUÑIGA ALEJOS",
+         "_Rfc": "AAA010101AAA",
          "_UsoCFDI": "P01"
       },
       "Conceptos": {
@@ -26,75 +26,85 @@
                {
                   "DoctoRelacionado": [
                      {
-                        "_Folio": "115710",
-                        "_IdDocumento": "F801AD61-57C0-4013-843B-8A0EEBA9A332",
-                        "_ImpPagado": "41907.19",
-                        "_ImpSaldoAnt": "41907.19",
-                        "_ImpSaldoInsoluto": "0",
-                        "_MetodoDePagoDR": "PPD",
-                        "_MonedaDR": "MXN",
-                        "_NumParcialidad": "1"
-                     }
-                  ],
-                  "_FechaPago": "2020-05-08T12:00:00",
-                  "_FormaDePagoP": "03",
-                  "_MonedaP": "MXN",
-                  "_Monto": "41907.19"
-               },
-               {
-                  "DoctoRelacionado": [
-                     {
-                        "_Folio": "116012",
-                        "_IdDocumento": "BFC95B5E-4BCB-4635-9A7C-CB37C85DFBE2",
-                        "_ImpPagado": "41333.14",
-                        "_ImpSaldoAnt": "41333.14",
+                        "_Folio": "DC019438",
+                        "_IdDocumento": "B29B2E51-7564-46AC-B17D-372FAA96C865",
+                        "_ImpPagado": "1018.02",
+                        "_ImpSaldoAnt": "1018.02",
                         "_ImpSaldoInsoluto": "0",
                         "_MetodoDePagoDR": "PPD",
                         "_MonedaDR": "MXN",
                         "_NumParcialidad": "1"
                      },
                      {
-                        "_Folio": "116141",
-                        "_IdDocumento": "1F1368D8-1BEF-46D5-BD46-A7C9D9F00E97",
-                        "_ImpPagado": "22044.35",
-                        "_ImpSaldoAnt": "22044.36",
-                        "_ImpSaldoInsoluto": "0.01",
+                        "_Folio": "DC019438",
+                        "_IdDocumento": "DB7E31A7-8DB2-4814-904C-B627A7C4E5A9",
+                        "_ImpPagado": "1874.34",
+                        "_ImpSaldoAnt": "1874.34",
+                        "_ImpSaldoInsoluto": "0",
                         "_MetodoDePagoDR": "PPD",
                         "_MonedaDR": "MXN",
                         "_NumParcialidad": "1"
                      }
                   ],
-                  "_FechaPago": "2020-05-22T12:00:00",
+                  "_FechaPago": "2020-07-23T00:00:00",
                   "_FormaDePagoP": "03",
                   "_MonedaP": "MXN",
-                  "_Monto": "63377.49"
+                  "_Monto": "2892.36"
+               },
+               {
+                  "DoctoRelacionado": [
+                     {
+                        "_Folio": "DC019502",
+                        "_IdDocumento": "91DF34A2-A368-4F52-A1B2-79DF1F635031",
+                        "_ImpPagado": "1199.05",
+                        "_ImpSaldoAnt": "1199.05",
+                        "_ImpSaldoInsoluto": "0",
+                        "_MetodoDePagoDR": "PPD",
+                        "_MonedaDR": "MXN",
+                        "_NumParcialidad": "1"
+                     },
+                     {
+                        "_Folio": "DC019502",
+                        "_IdDocumento": "8B5249A5-40E5-4FF1-9EEB-29310C9DBE72",
+                        "_ImpPagado": "1018.02",
+                        "_ImpSaldoAnt": "1018.02",
+                        "_ImpSaldoInsoluto": "0",
+                        "_MetodoDePagoDR": "PPD",
+                        "_MonedaDR": "MXN",
+                        "_NumParcialidad": "1"
+                     }
+                  ],
+                  "_FechaPago": "2020-07-24T00:00:00",
+                  "_FormaDePagoP": "03",
+                  "_MonedaP": "MXN",
+                  "_Monto": "2217.07"
                }
             ],
+            "_xmlns:pago10": "http://www.sat.gob.mx/Pagos",
             "_Version": "1.0"
          },
          "TimbreFiscalDigital": {
             "_xmlns:tfd": "http://www.sat.gob.mx/TimbreFiscalDigital",
-            "_FechaTimbrado": "2020-06-08T09:38:02",
-            "_NoCertificadoSAT": "00001000000403258748",
-            "_RfcProvCertif": "SAT970701NN3",
-            "_SelloCFD": "ZsU+9ZiD7h7NoeXRY0Noc0JVb4nmD2vBKTpqsaaifB/Rm10h78CxKDoJLbok57AOAaOeWuZ1+xW32l9P/z8hp/ZdNtONN/WvqNcT91f9aL2fqBbeVpylWgxGlOLQwYH8MkZquaQV3au0ZwbaIJcZJ8l5j5p9U28dBCSSq+oCv4CyG6GE8qXo9H24SATRwhTcZPYPqTp4P1TZxnUo368onFlef86bnOFrv+T0VH+4L06gxjmky7iNX6o52Rc5L4DGvYgT3o/HLxciIEoznR40JzxtBG9NBPQEH6SOuK8t/08N+2zEXmvGWwbLh/CD7dmu4ZnrMSpqfUH3R/AQzwRNIw==",
-            "_SelloSAT": "iaef86JETfxQwYYnYIcNDXjlUkzIYPN7C2VW+jIOd8Jgh6ZwXM5WAXuhEh0hFIbXfUSliN+ZyE9nVuJiD0dG2lrM7bwRdgPX+MkyzjuGBx7hnbQtoKMtm98S/a+KHrQIK2Rcv7G3o9++ex+R0SjzlPO38jAUj6iKQXPX+3O9AWHOPGNZVWF4dyVVV6w7EBwmndjZEbfVbSy1CkPUEI8tpxxkYOfjjgW14nrEkV/HkSlDsaDpaTuT1+Esq8fayspQktBSM9mXt6GUpeLrrSuHRLPfI29x425Tlj/IqI7379ERYTeFkxSGN17L3x1kUTM9hXD2jGbGY0KaYjKq41dXiw==",
-            "_UUID": "BD1FC695-9399-4E05-9F71-ED8062A059C9",
+            "_xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "_FechaTimbrado": "2020-08-14T13:45:16",
+            "_NoCertificadoSAT": "30001000000400002495",
+            "_RfcProvCertif": "FCG840618N51",
+            "_SelloCFD": "d9wZd/BmrEyree/zV41yROleO/J3LLnxB8vpZ+uX13JD2SQTEVQTqyXuIPq/f8jmyBx1AJtpFyuvwecToqc0J2tTsn9Bol7axWnDh5HnINrMc304LIRvo31vZpZ56xveFS0WvIi9PsNkevKumhu+5Z4jfvvfswh8TeDX2jaS22BIpLmLdszZuaHtqXO33rmeEXtmwHBlw/7yswrdY3LFpCyjWZzpysPyiRYb9pGueXru2gl1sEth3vBUuxH20qSoxTGpnCUyca4kt4zdH2eA54KGEShNMC89//wY2sPHsyp76QjD3bBYsKrHFo0JTZRLYLZhQ+EKzyQ/PsxRw0bDjg==",
+            "_SelloSAT": "gG+6rGu6s3CBsIdB40cJOGwILZB63W1xbPUkcPs5k9AeywTeKOS8ttAG4nqz9Xb8gJOzz4BAOnuemYtVygpQGqD6w3m+c1bV4FbyBTlI/TR8n5hu7KHPy0SVIcGP+fA/TpxAbYJvnyCqWGDt37slM5lTxfiLvd3lZBGnYcVyLYf7I2v/lSyHZbQpNDPFu5iKH8IY1zNWqnWlVnFavq1zw5Iy5S4zaMzbG97DtqK5Z4psYa+Dnh5s/vBcaRPJGLkYXoRCZPLyN8aAIkxz80QoCNdhOVRyHjIKrapTjjhhx0uf7ocswrVJ5zaHedBMg4Pbn4nkx+9iihhbj8imdN4fjg==",
+            "_UUID": "4793B397-9DD7-485B-8080-278F5593BCBA",
             "_Version": "1.1",
-            "_xsi:schemaLocation": "http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd"
+            "_xsi:schemaLocation": "http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/timbrefiscaldigital/TimbreFiscalDigitalv11.xsd"
          }
       },
       "_xmlns:cfdi": "http://www.sat.gob.mx/cfd/3",
-      "_xmlns:pago10": "http://www.sat.gob.mx/Pagos",
       "_xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-      "_Certificado": "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",
-      "_Fecha": "2020-06-08T09:31:12",
-      "_Folio": "37",
+      "_Certificado": "MIIFuzCCA6OgAwIBAgIUMzAwMDEwMDAwMDA0MDAwMDI0MzQwDQYJKoZIhvcNAQELBQAwggErMQ8wDQYDVQQDDAZBQyBVQVQxLjAsBgNVBAoMJVNFUlZJQ0lPIERFIEFETUlOSVNUUkFDSU9OIFRSSUJVVEFSSUExGjAYBgNVBAsMEVNBVC1JRVMgQXV0aG9yaXR5MSgwJgYJKoZIhvcNAQkBFhlvc2Nhci5tYXJ0aW5lekBzYXQuZ29iLm14MR0wGwYDVQQJDBQzcmEgY2VycmFkYSBkZSBjYWRpejEOMAwGA1UEEQwFMDYzNzAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBDSVVEQUQgREUgTUVYSUNPMREwDwYDVQQHDAhDT1lPQUNBTjERMA8GA1UELRMIMi41LjQuNDUxJTAjBgkqhkiG9w0BCQITFnJlc3BvbnNhYmxlOiBBQ0RNQS1TQVQwHhcNMTkwNjE3MTk0NDE0WhcNMjMwNjE3MTk0NDE0WjCB4jEnMCUGA1UEAxMeRVNDVUVMQSBLRU1QRVIgVVJHQVRFIFNBIERFIENWMScwJQYDVQQpEx5FU0NVRUxBIEtFTVBFUiBVUkdBVEUgU0EgREUgQ1YxJzAlBgNVBAoTHkVTQ1VFTEEgS0VNUEVSIFVSR0FURSBTQSBERSBDVjElMCMGA1UELRMcRUtVOTAwMzE3M0M5IC8gWElRQjg5MTExNlFFNDEeMBwGA1UEBRMVIC8gWElRQjg5MTExNk1HUk1aUjA1MR4wHAYDVQQLExVFc2N1ZWxhIEtlbXBlciBVcmdhdGUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCN0peKpgfOL75iYRv1fqq+oVYsLPVUR/GibYmGKc9InHFy5lYF6OTYjnIIvmkOdRobbGlCUxORX/tLsl8Ya9gm6Yo7hHnODRBIDup3GISFzB/96R9K/MzYQOcscMIoBDARaycnLvy7FlMvO7/rlVnsSARxZRO8Kz8Zkksj2zpeYpjZIya/369+oGqQk1cTRkHo59JvJ4Tfbk/3iIyf4H/Ini9nBe9cYWo0MnKob7DDt/vsdi5tA8mMtA953LapNyCZIDCRQQlUGNgDqY9/8F5mUvVgkcczsIgGdvf9vMQPSf3jjCiKj7j6ucxl1+FwJWmbvgNmiaUR/0q4m2rm78lFAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBCwUAA4ICAQBcpj1TjT4jiinIujIdAlFzE6kRwYJCnDG08zSp4kSnShjxADGEXH2chehKMV0FY7c4njA5eDGdA/G2OCTPvF5rpeCZP5Dw504RZkYDl2suRz+wa1sNBVpbnBJEK0fQcN3IftBwsgNFdFhUtCyw3lus1SSJbPxjLHS6FcZZ51YSeIfcNXOAuTqdimusaXq15GrSrCOkM6n2jfj2sMJYM2HXaXJ6rGTEgYmhYdwxWtil6RfZB+fGQ/H9I9WLnl4KTZUS6C9+NLHh4FPDhSk19fpS2S/56aqgFoGAkXAYt9Fy5ECaPcULIfJ1DEbsXKyRdCv3JY89+0MNkOdaDnsemS2o5Gl08zI4iYtt3L40gAZ60NPh31kVLnYNsmvfNxYyKp+AeJtDHyW9w7ftM0Hoi+BuRmcAQSKFV3pk8j51la+jrRBrAUv8blbRcQ5BiZUwJzHFEKIwTsRGoRyEx96sNnB03n6GTwjIGz92SmLdNl95r9rkvp+2m4S6q1lPuXaFg7DGBrXWC8iyqeWE2iobdwIIuXPTMVqQb12m1dAkJVRO5NdHnP/MpqOvOgLqoZBNHGyBg4Gqm4sCJHCxA1c8Elfa2RQTCk0tAzllL4vOnI1GHkGJn65xokGsaU4B4D36xh7eWrfj4/pgWHmtoDAYa8wzSwo2GVCZOs+mtEgOQB91/g==",
+      "_Fecha": "2020-08-14T12:45:14",
+      "_Folio": "1",
       "_LugarExpedicion": "32459",
       "_Moneda": "XXX",
-      "_NoCertificado": "00001000000403994658",
-      "_Sello": "ZsU+9ZiD7h7NoeXRY0Noc0JVb4nmD2vBKTpqsaaifB/Rm10h78CxKDoJLbok57AOAaOeWuZ1+xW32l9P/z8hp/ZdNtONN/WvqNcT91f9aL2fqBbeVpylWgxGlOLQwYH8MkZquaQV3au0ZwbaIJcZJ8l5j5p9U28dBCSSq+oCv4CyG6GE8qXo9H24SATRwhTcZPYPqTp4P1TZxnUo368onFlef86bnOFrv+T0VH+4L06gxjmky7iNX6o52Rc5L4DGvYgT3o/IEoznR40JzxtBG9NBPQEH6SOuK8t/08N+2zEXmvGWwbLh/CD7dmu4ZnrMSpqfUH3R/AQzwRNIw==",
-      "_Serie": "DP",
+      "_NoCertificado": "30001000000400002434",
+      "_Sello": "d9wZd/BmrEyree/zV41yROleO/J3LLnxB8vpZ+uX13JD2SQTEVQTqyXuIPq/f8jmyBx1AJtpFyuvwecToqc0J2tTsn9Bol7axWnDh5HnINrMc304LIRvo31vZpZ56xveFS0WvIi9PsNkevKumhu+5Z4jfvvfswh8TeDX2jaS22BIpLmLdszZuaHtqXO33rmeEXtmwHBlw/7yswrdY3LFpCyjWZzpysPyiRYb9pGueXru2gl1sEth3vBUuxH20qSoxTGpnCUyca4kt4zdH2eA54KGEShNMC89//wY2sPHsyp76QjD3bBYsKrHFo0JTZRLYLZhQ+EKzyQ/PsxRw0bDjg==",
       "_SubTotal": "0",
       "_TipoDeComprobante": "P",
       "_Total": "0",
