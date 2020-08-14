@@ -7,7 +7,7 @@
          "_Rfc": "EKU9003173C9"
       },
       "Receptor": {
-         "_Nombre": "RICARDO ZUÑIGA ALEJOS",
+         "_Nombre": "Jesus ochoa rabelo",
          "_Rfc": "AAA010101AAA",
          "_UsoCFDI": "P01"
       },
