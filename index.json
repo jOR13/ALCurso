@@ -1,5 +1,5 @@
+"lol":{
 
-{
 "xsiSchemaLocation": "http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd",
 "CfdiRelacionados": {
 "CfdiRelacionado": [],
@@ -103,5 +103,5 @@
 "MetodoPagoSpecified": true,
 "LugarExpedicion": "32459",
 "Confirmacion": null
-}  
-
+ 
+}
