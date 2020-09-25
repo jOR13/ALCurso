@@ -1,8 +1,148 @@
-
+[
+{
+"xsiSchemaLocation": "http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd",
+"CfdiRelacionados": {
+"CfdiRelacionado": [
+{
+"UUID": "98B0C2A2-4F67-44A0-B981-3A4388BC4579"
+},
+{
+"UUID": "789106BF-02E2-4A8F-9ED0-C8E4A0672EF2"
+}
+],
+"TipoRelacion": "06"
+},
+"Emisor": {
+"Rfc": "CCD070607PL6",
+"Nombre": "COMERCIALIZADORA DE COMBUSTIBLES Y DERIVADOS FUENTES SA DE CV",
+"RegimenFiscal": "601"
+},
 "Receptor": {
-"Rfc": "ZUAR530403DD8",
-"Nombre": "RICARDO ZUÑIGA ALEJOS",
+"Rfc": "ANA050518RL1",
+"Nombre": "AEROENLACES NACIONALES SA DE CV",
 "ResidenciaFiscalSpecified": false,
 "NumRegIdTrib": null,
 "UsoCFDI": "G03"
+},
+"Conceptos": [
+{
+"Impuestos": {
+"Traslados": [
+{
+"Base": 39696.375,
+"Impuesto": "002",
+"TipoFactor": "Tasa",
+"TasaOCuota": "0.080000",
+"TasaOCuotaSpecified": true,
+"Importe": 3175.71,
+"ImporteSpecified": true
 }
+],
+"Retenciones": []
+},
+"InformacionAduanera": [
+{
+"NumeroPedimento": "20  17  3212  0005429"
+}
+],
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15101504",
+"NoIdentificacion": "004",
+"Cantidad": 116651,
+"ClaveUnidad": "LTR",
+"Unidad": "LITRO",
+"Descripcion": "TURBOSINA",
+"ValorUnitario": 0.3403,
+"Importe": 39696.34,
+"DescuentoSpecified": false
+},
+{
+"Impuestos": {
+"Traslados": [
+{
+"Base": 89895.75,
+"Impuesto": "002",
+"TipoFactor": "Tasa",
+"TasaOCuota": "0.080000",
+"TasaOCuotaSpecified": true,
+"Importe": 7191.66,
+"ImporteSpecified": true
+}
+],
+"Retenciones": []
+},
+"InformacionAduanera": null,
+"CuentaPredial": null,
+"ComplementoConcepto": null,
+"Parte": null,
+"ClaveProdServ": "15101504",
+"NoIdentificacion": "011",
+"Cantidad": 264166,
+"ClaveUnidad": "LTR",
+"Unidad": "LITRO",
+"Descripcion": "TURBOSINA NACIONAL",
+"ValorUnitario": 0.3403,
+"Importe": 89895.69,
+"DescuentoSpecified": false
+}
+],
+"Impuestos": {
+"Retenciones": [],
+"Traslados": [
+{
+"Impuesto": "002",
+"TipoFactor": "Tasa",
+"TasaOCuota": "0.080000",
+"Importe": 10367.37
+}
+],
+"TotalImpuestosRetenidosSpecified": false,
+"TotalImpuestosTrasladados": 10367.37,
+"TotalImpuestosTrasladadosSpecified": true
+},
+"Complemento": [
+{
+"Any": [
+{
+"tfd:TimbreFiscalDigital": {
+"@xsi:schemaLocation": "http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd",
+"@xmlns:tfd": "http://www.sat.gob.mx/TimbreFiscalDigital",
+"@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+"@Version": "1.1",
+"@UUID": "118E806B-87EF-4F30-90B7-4FE7DB7132D3",
+"@FechaTimbrado": "2020-09-21T18:11:25",
+"@RfcProvCertif": "MAS0810247C0",
+"@SelloCFD": "R0DYUy266UIHASwbaYCAANspqiuVnA+dUUvKA1NvwuFF+lHpy3333fTkPD06UScaLsioHZbLsW7sQNwsXxPHE7CxA+wz62vdSIKH/F309KuQK75hUBX9Z81HxXRKz/buL1AF4nzhfPSn8GzD115Q5sv1TMEDslfSvlt1cvXajZBfQmI1VnKfdl/cmCbUDF0OdPn66IRaHdyvcAZodpQdtJ1fAAlrGSlNkO0uH19Fa48JYx1/SSCVUMrduSvrc9M3Wumb1Yj6+20QHMkHTAxucjK4UKewp9SXjwZ+FKd6rBhYqRKX8wrWUzPSTZJFFO1zJztw1p8sL0M5HqACe7Nt+Q==",
+"@NoCertificadoSAT": "00001000000404486074",
+"@SelloSAT": "vHv3zGwFuLQ8ge9WNSVfkGldyN7I5w/1FhL0NuA9logdf9WJtr036jcjbWwLcGtIJEy0fcl0ZBIXBc3ANDzgnoM0PxHoaRUHSPsRIIXL40nKn/U4ZshX4wAUz7F0nh7rShpn4Rne5kCPzG53ysy5wODq6fejO8Zk+x9vmnUaT4mBySCKukg7r9BJoegVfyo99/vIpixB7EOzRKYKSWnoBP4/ObkUYqU7eYgYH1zPSENQCn1vLkC9RvlQ8uvuPVDfwP/rDcgmqzVb0SnrhBu/hEFv2/q46oRue/mX+hT/ZdXjU0r0NMZm2MxF+6dwEnWrM+jbnGIh8Ndf3Sk1gfBgsA=="
+}
+}
+]
+}
+],
+"Addenda": null,
+"Version": "3.3",
+"Serie": null,
+"Folio": "123820",
+"Fecha": "2020-09-21T17:11:22",
+"Sello": "R0DYUy266UIHASwbaYCAANspqiuVnA+dUUvKA1NvwuFF+lHpy3333fTkPD06UScaLsioHZbLsW7sQNwsXxPHE7CxA+wz62vdSIKH/F309KuQK75hUBX9Z81HxXRKz/buL1AF4nzhfPSn8GzD115Q5sv1TMEDslfSvlt1cvXajZBfQmI1VnKfdl/cmCbUDF0OdPn66IRaHdyvcAZodpQdtJ1fAAlrGSlNkO0uH19Fa48JYx1/SSCVUMrduSvrc9M3Wumb1Yj6+20QHMkHTAxucjK4UKewp9SXjwZ+FKd6rBhYqRKX8wrWUzPSTZJFFO1zJztw1p8sL0M5HqACe7Nt+Q==",
+"FormaPago": "99",
+"FormaPagoSpecified": true,
+"NoCertificado": "00001000000403994658",
+"Certificado": "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",
+"CondicionesDePago": null,
+"SubTotal": 129592.03,
+"DescuentoSpecified": false,
+"Moneda": "USD",
+"TipoCambio": 20.985,
+"TipoCambioSpecified": true,
+"Total": 139959.4,
+"TipoDeComprobante": "I",
+"MetodoPago": "PPD",
+"MetodoPagoSpecified": true,
+"LugarExpedicion": "32459",
+"Confirmacion": null
+}
+]
